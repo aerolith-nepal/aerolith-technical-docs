@@ -1,0 +1,10 @@
+site_name: Aerolith Technical Documentation
+site_url: https://aerolith-technical-docs.readthedocs.io/
+site_description: Technical Manual and Engineering Guide for Industrial Compressed Air Systems and Batch Coding Machinery in Nepal.
+site_author: Aerolith Pneumatics Services Private Limited
+
+theme:
+  name: readthedocs
+
+nav:
+  - Home: index.md
