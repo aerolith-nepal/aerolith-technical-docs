@@ -14,7 +14,7 @@
 
 ## 1. Energy-Saving Compressed Air Infrastructure
 
-![PM VFD Screw Air Compressor Supplier Nepal](https://backend.aerolithmachinery.com/wp-content/uploads/2026/10/screw-air-compressor.webp)
+![PM VFD Screw Air Compressor Supplier Nepal](https://aerolithmachinery.com/products/Screw-Air-Compressor.webp) (https://aerolithmachinery.com/products/PM-VFD-Compressors.webp)
 
 ### A. PM VFD Rotary Screw Air Compressors (7.5 kW – 250 kW / 10 HP – 340 HP)
 Permanent Magnet Variable Frequency Drive (PM VFD) screw compressors regulate motor RPM based on real-time pneumatic demand in your factory, preventing costly unloaded running cycles.
@@ -41,7 +41,7 @@ Heavy-duty multi-stage reciprocating piston compressors engineered for workshops
 
 ## 2. Industrial Batch Coding & Laser Marking Machinery
 
-![Industrial Laser Marking and Batch Coding Nepal](https://backend.aerolithmachinery.com/wp-content/uploads/2026/10/laser-marking-machine.webp)
+![Industrial Laser Marking and Batch Coding Nepal](https://aerolithmachinery.com/new-product/CO2-Laser-Marking-Machine-in-Nepal.webp)
 
 ### A. High-Speed Industrial Laser Marking Machines
 Zero-consumable, permanent high-precision coding designed for automated conveyor lines:
@@ -58,7 +58,7 @@ Zero-consumable, permanent high-precision coding designed for automated conveyor
 
 ### B. High-Resolution Industrial Inkjet Printers (CIJ, TIJ & Handheld)
 
-![Continuous Inkjet CIJ and TIJ Printers](https://backend.aerolithmachinery.com/wp-content/uploads/2026/10/tij-printer.webp)
+![Continuous Inkjet CIJ and TIJ Printers](https://aerolithmachinery.com/new-product/Continuous-Inkjet-Printer-in-Nepal.webp)
 
 * **Continuous Inkjet (CIJ) Printers:** High-speed, non-contact micro-coding (up to 300 m/min) for round bottles, curved surfaces, crown corks, and flexible film pouches.
 * **Thermal Inkjet (TIJ) Printers:** Zero-maintenance cartridge-based printing utilizing authentic 0.5-inch HP solvent cartridges for crisp 600 DPI printing of Batch No, MFG Date, EXP Date, and 2D QR codes.
